@@ -1,6 +1,6 @@
 # Admin Dashboard Project
 
-![Preview](image/wallpaper.png)
+![Preview](preview.png)
 
 A responsive admin dashboard interface for e-commerce management, featuring light/dark mode toggle and analytics visualization.
 
